@@ -263,5 +263,7 @@ Temporary Items
 .swp
 .csv
 db_uploader.py
+.gitignore
+my_settings.py
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,vscode,flask,python
